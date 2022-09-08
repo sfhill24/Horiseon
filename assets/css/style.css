@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*header section styling*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +25,7 @@ body {
     color: #d9dcd6;
 }
 
+/*header nav styling*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/*hero section styling*/
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +78,7 @@ p {
     margin-left: 20px;
 }
 
+/*benefits section styling*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,17 +90,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+.benefit-style {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -106,25 +100,14 @@ p {
     text-align: center;
 }
 
-.benefit-lead img {
+.benefit-img-style {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.search-engine-optimization {
+/*content section styling*/
+.content-style {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -133,51 +116,16 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
+.content-style img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
+.content-style h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/*footer section styling*/
 .footer {
     padding: 30px;
     clear: both;
